@@ -95,8 +95,8 @@
   width: 180px;
   height: 57px;
   position: absolute;
-  left: 550px;
-  top: 547px;
+  left: 584px;
+  top: 539px;
 }
 .get-started {
   color: #ffffff;
@@ -105,9 +105,14 @@
   font-size: 24px;
   font-weight: 400;
   position: absolute;
-  left: 555px;
-  top: 542px;
+  left: 607px;
+  top: 534px;
   width: 185px;
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
   height: 62px;
   display: flex;
   align-items: center;
