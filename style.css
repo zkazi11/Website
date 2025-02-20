@@ -1,0 +1,131 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #000000;
+  padding: 10px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1110px;
+  top: 44px;
+  width: 361px;
+  height: 72px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1266px;
+  top: 44px;
+  width: 361px;
+  height: 72px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 869px;
+  top: 44px;
+  width: 361px;
+  height: 72px;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 44px;
+  top: 44px;
+  width: 361px;
+  height: 72px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 211px);
+  width: 1072px;
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.let-s-create-a-website-design2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 211px);
+  width: 1072px;
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 88px);
+  width: 1050px;
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 630px;
+  top: 547px;
+}
+.get-started {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 647px;
+  top: 547px;
+  width: 185px;
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
