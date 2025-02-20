@@ -1,8 +1,8 @@
-.about-page,
-.about-page * {
+.contact,
+.contact * {
   box-sizing: border-box;
 }
-.about-page {
+.contact {
   background: #000000;
   padding: 10px;
   height: 1024px;
@@ -21,7 +21,7 @@
   width: 361px;
   height: 72px;
 }
-.contact {
+.contact2 {
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
@@ -57,7 +57,7 @@
   width: 361px;
   height: 72px;
 }
-.bmgt-407-information-systems-projects {
+.contact-us {
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Bold", sans-serif;
@@ -69,7 +69,7 @@
   width: 2105px;
   height: 88px;
 }
-.bmgt-407-is-the-capstone-course-for-information-systems-is-majors {
+.professor-contact {
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
@@ -84,7 +84,7 @@
   align-items: center;
   justify-content: flex-start;
 }
-.semester-details-spring-2025 {
+.ta-contact {
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
@@ -92,14 +92,14 @@
   font-weight: 400;
   position: absolute;
   left: calc(50% - 586px);
-  top: calc(50% - 57px);
+  top: calc(50% - 8px);
   width: 1344px;
   height: 58px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
 }
-.professor-paul-t-shapiro {
+.paul-t-shapiro-pshapiro-umd-edu {
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
@@ -107,14 +107,14 @@
   font-weight: 400;
   position: absolute;
   left: calc(50% - 586px);
-  top: calc(50% - -18px);
+  top: calc(50% - 110px);
   width: 1344px;
   height: 58px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
 }
-.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+.bharath-sreekumar-bsreekum-umd-edu-caifu-lin-clin-umd-edu-sumanth-devara-sdevara-umd-edu {
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
@@ -124,7 +124,7 @@
   left: calc(50% - 586px);
   top: calc(50% - -93px);
   width: 1344px;
-  height: 58px;
+  height: 137px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
