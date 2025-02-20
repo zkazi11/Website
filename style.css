@@ -59,22 +59,6 @@
 }
 .let-s-create-a-website-design {
   color: #ffffff;
-  text-align: left;
-  font-family: "Montserrat-Bold", sans-serif;
-  font-size: 60px;
-  font-weight: 700;
-  position: absolute;
-  left: 50%;
-  translate: -50%;
-  top: calc(50% - 211px);
-  width: 1072px;
-  height: 88px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.let-s-create-a-website-design2 {
-  color: #ffffff;
   text-align: center;
   font-family: "Montserrat-Bold", sans-serif;
   font-size: 60px;
@@ -121,8 +105,8 @@
   font-size: 24px;
   font-weight: 400;
   position: absolute;
-  left: 647px;
-  top: 547px;
+  left: 653px;
+  top: 542px;
   width: 185px;
   height: 62px;
   display: flex;
