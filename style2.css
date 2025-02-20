@@ -1,12 +1,13 @@
-.landing-page,
-.landing-page * {
+.about-page,
+.about-page * {
   box-sizing: border-box;
 }
-.landing-page {
+.about-page {
   background: #000000;
   padding: 10px;
   height: 1024px;
   position: relative;
+  overflow: hidden;
 }
 .about {
   color: #ffffff;
@@ -60,11 +61,11 @@
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Bold", sans-serif;
-  font-size: 30px;
+  font-size: 48px;
   font-weight: 700;
   position: absolute;
-  left: calc(50% - 676px);
-  top: calc(50% - 216px);
+  left: calc(50% - 586px);
+  top: calc(50% - 273px);
   width: 2105px;
   height: 88px;
 }
@@ -72,11 +73,11 @@
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 400;
   position: absolute;
-  left: calc(50% - 676px);
-  top: calc(50% - 111px);
+  left: calc(50% - 586px);
+  top: calc(50% - 168px);
   width: 1344px;
   height: 58px;
   display: flex;
@@ -87,11 +88,11 @@
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 400;
   position: absolute;
-  left: calc(50% - 676px);
-  top: calc(50% - 0px);
+  left: calc(50% - 586px);
+  top: calc(50% - 57px);
   width: 1344px;
   height: 58px;
   display: flex;
@@ -102,11 +103,11 @@
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 400;
   position: absolute;
-  left: calc(50% - 676px);
-  top: calc(50% - -75px);
+  left: calc(50% - 586px);
+  top: calc(50% - -18px);
   width: 1344px;
   height: 58px;
   display: flex;
@@ -117,11 +118,11 @@
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 400;
   position: absolute;
-  left: calc(50% - 676px);
-  top: calc(50% - -150px);
+  left: calc(50% - 586px);
+  top: calc(50% - -93px);
   width: 1344px;
   height: 58px;
   display: flex;
